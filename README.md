@@ -202,4 +202,4 @@ This repository serves as the official landing page for CoreAVC. The software is
 **Get the most recent version of CoreAVC today!**
 
 ---
-**Last updated:** 2026-11-11 21:38:52 UTC
+**Last updated:** 2026-11-12 02:36:15 UTC
